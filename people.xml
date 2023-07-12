@@ -1,0 +1,10 @@
+<people>
+    <person name="Alice">
+        <age>28</age>
+        <country>USA</country>
+    </person>
+    <person name="Bob">
+        <age>42</age>
+        <country>Canada</country>
+    </person>
+</people>
